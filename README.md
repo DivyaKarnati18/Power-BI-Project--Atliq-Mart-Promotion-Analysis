@@ -58,5 +58,10 @@ The sales director wants to understand which promotions performed well and which
 
 4. **Campaign Performance**:
    - **Diwali Campaign**: Outperformed the Sankranti campaign in terms of revenue.
+  
+#    DashBoard
+
+   To view the detailed insights, visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ4YjFmNmEtMzExZS00ZTdkLWFmMDgtZTNjZTA1ZGZmMzEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
 
 
