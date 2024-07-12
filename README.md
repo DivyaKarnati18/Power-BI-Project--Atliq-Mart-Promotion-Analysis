@@ -8,6 +8,12 @@ Atliq Mart, a retail giant with over 50 supermarkets in southern India, ran a ma
 
 The sales director wants to understand which promotions performed well and which did not during the Diwali 2023 and Sankranti 2024 promotions. This analysis will guide decision-making for upcoming promotional periods.
 
+#    DashBoard
+
+   To view the detailed insights, visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ4YjFmNmEtMzExZS00ZTdkLWFmMDgtZTNjZTA1ZGZmMzEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
+
+
 ## Tech Stack
 
 - **Power BI**
@@ -59,9 +65,4 @@ The sales director wants to understand which promotions performed well and which
 4. **Campaign Performance**:
    - **Diwali Campaign**: Outperformed the Sankranti campaign in terms of revenue.
   
-#    DashBoard
-
-   To view the detailed insights, visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ4YjFmNmEtMzExZS00ZTdkLWFmMDgtZTNjZTA1ZGZmMzEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
-
-
 
