@@ -48,7 +48,7 @@ The sales director wants to understand which promotions performed well and which
 - **Incremental Sold Units**: 226K
 - **Incremental Sold Units %**: 108.31%
 
-## Recommendations
+## Top Insights
 
 1. **High-Performing Cities**: 
    - **Bengaluru, Chennai, Hyderabad**: Achieved significant incremental revenue.
@@ -64,5 +64,16 @@ The sales director wants to understand which promotions performed well and which
 
 4. **Campaign Performance**:
    - **Diwali Campaign**: Outperformed the Sankranti campaign in terms of revenue.
+  
+ ### Analysis of Atliq Mart Promotions (Diwali 2023 and Sankranti 2024)
+
+From analyzing Atliq Mart's promotions during Diwali 2023 and Sankranti 2024, key learnings include:
+
+- **Effectiveness of Offers:** Cashback and BOGOF (Buy One Get One Free) offers drove significant revenue increases.
+- **Regional Performance:** Cities such as Bengaluru, Chennai, and Hyderabad outperformed others.
+- **Seasonal Influence:** Diwali campaigns surpassed Sankranti in revenue, highlighting seasonal influences on consumer behavior.
+- **Top Performing Products:** Combo1 products emerged as top performers, indicating specific promotional opportunities within categories.
+
+These insights underscore the importance of data-driven strategies for optimizing future promotional campaigns at Atliq Mart.
   
 
